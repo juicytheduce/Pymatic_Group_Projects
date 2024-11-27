@@ -2,7 +2,7 @@
 Quick Start - (if Github Dev is already set up):
 1. Click the green "Code" button
 2. Select "codespaces" and select your cloud dev instance (mine shows as "humble space goggles" - yours may be different) 
-3.  If more setup is required Go to step 4 in the instructions below
+3.  If more setup is required go to step 4 in the instructions below
 
 
 Steps to set up dev environment for Pymatic_Group_Projects Repository:
