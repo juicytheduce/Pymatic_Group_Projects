@@ -1,5 +1,11 @@
 # Pymatic_Group_Project
-Steps to edit code in the Pymatic_Group_Projects Repository:
+Quick Start - (if Github Dev is already set up):
+1. Click the green "Code" button
+2. Select GitHub Dev
+3. If more setup is required Go to step 4 in the instructions below
+
+
+Steps to set up dev environment in the Pymatic_Group_Projects Repository:
 1. Under files on the left click on "Group_Project_001_12.01.ipynb"
 2. To the right of the edit button in the top right corner, click on the dropdown arrow
 3. In the dropdown menu under "open with" select GitHub.dev
