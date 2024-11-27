@@ -2,11 +2,11 @@
 Quick Start - (if Github Dev is already set up):
 1. Click the green "Code" button
 2. Select "codespaces" and select your cloud dev instance (mine shows as "humble space goggles" - yours may be different) 
-3. 3. If more setup is required Go to step 4 in the instructions below
+3.  If more setup is required Go to step 4 in the instructions below
 
 
-Steps to set up dev environment in the Pymatic_Group_Projects Repository:
-1. Under files on the left click on "Group_Project_001_12.01.ipynb"
+Steps to set up dev environment for Pymatic_Group_Projects Repository:
+1. Click on "Group_Project_001_12.01.ipynb"
 2. To the right of the edit button in the top right corner, click on the dropdown arrow
 3. In the dropdown menu under "open with" select GitHub.dev
 4. Install the Jupiter extension for the VS code web-app (it should prompt you automatically)
