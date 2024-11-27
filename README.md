@@ -1,12 +1,5 @@
 # Pymatic_Group_Project
 Steps to edit code in the Pymatic_Group_Projects Repository:
-# 1st Way
-1. 
-
-
-
-
-# 2nd Way
 1. Under files on the left click on "Group_Project_001_12.01.ipynb"
 2. To the right of the edit button in the top right corner, click on the dropdown arrow
 3. In the dropdown menu under "open with" select GitHub.dev
