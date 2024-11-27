@@ -6,5 +6,7 @@ Steps to edit code in the Pymatic_Group_Projects Repository:
 3. In the dropdown menu under "open with" select GitHub.dev
 4. Install the Jupiter extension for the VS code web-app
 5. Once installed it should render the file like it does in Anaconda/Jupiter
-6. To run the code in the file select a compiler 
+6. To run the code click "select a compiler" 
+7. At the bottom click on "connect to codespace" 
+8. After that you should be able to run the python code locally in GitHub
 
